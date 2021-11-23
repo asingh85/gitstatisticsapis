@@ -1,0 +1,26 @@
+What do you think are the greatest areas of risk in completing the project?
+Ans : Though , there were no greater risks involved , In my point of view this app will work  on public repos and tech stack is on open source libraries GPL (General Public license)
+
+What changes/additions would you make to the design?
+Ans :  
+
+Addition : 
+	We can add a search filter to make handy for the user.
+
+Change : 
+	Design can be changed as per the requirement. Though ,we can enhance the search by owner name , name of repo and by description.
+	We can add a screen before displaying the graph screen where user can have options in grid display to choose 
+
+
+List two or three features that you would consider implementing in the future that would add significant value to the project.
+Ans : 
+Features : 
+	1. Different graphical view can be added to the project.
+	2.  We can toggle the chart by clicking on each repo from the searched list and display the commits on line Chart.
+	3. List of Most searchable repo we can display in a panel
+
+
+Are there any clarifying questions you would ask? If you're able to make assumptions about these and continue, please record and share your assumptions?
+Ans : 
+Assumptions :
+	1. Would be Nice to have single view of each repo instead of comparing in graph.Because to compare the graphs with different commits its hard to display week wise due to loads of data.

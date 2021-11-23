@@ -1,0 +1,123 @@
+body {
+    background-image: url(https://images.pexels.com/photos/6063557/pexels-photo-6063557.jpeg?cs=srgb&dl=pexels-nadezhda-moryak-6063557.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.graph-col {
+    background-color: #fff;
+    color: #000;
+    padding: 20px !important;
+}
+
+.chart-box {
+    width: 100% !important;
+    overflow: visible !important;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.custom-tooltip .label {
+    margin-bottom: 0px;
+    font-size: 13px;
+    text-align: center;
+}
+
+svg.recharts-surface {
+    width: calc(100% - 20px) !important;
+}
+
+.search-col {
+    background-color: #37374b;
+    color: #fff;
+    padding: 20px 40px !important;
+}
+
+form .feather-search {
+    position: relative;
+    left: calc(100% - 33px);
+    color: gray;
+    top: -33px;
+}
+
+.search-info {
+    background-color: #242532;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    color: #BBBBF1;
+}
+text.recharts-text.recharts-cartesian-axis-tick-value {
+    display: none;
+}
+.recharts-tooltip-wrapper .custom-tooltip {
+    width: 200px;
+    margin: 0;
+    line-height: 24px;
+    border: 1px solid #f5f5f5;
+    background-color: hsla(0,0%,100%,.8);
+    padding: 10px;
+}
+
+/* Suggestion */
+
+.suggestion-box {
+    background: #fff;
+    color: #000;
+    position: relative;
+    top: -30px;
+    height: 268px;
+    overflow-y: scroll;
+}
+
+.suggestion-box ul {
+    padding: 0 !important;
+}
+
+.suggestion-box li {
+    list-style: none;
+    padding: 10px !important;
+    margin: 0 !important;
+    cursor: pointer;
+}
+
+.suggestion-box li:hover {
+    background: #eee;
+}
+
+.repoCard {
+    background: #272736;
+    padding: 10px 20px;
+    border-left: 5px solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 60px;
+}
+
+.repolist {
+    height: 400px;
+    overflow-y: scroll;
+    padding-right: 10px;
+}
+
+svg.feather.feather-trash-2 {
+    position: relative;
+    left: calc(100% - 20px);
+    top: -30px;
+    cursor: pointer;
+    display: none;
+}
+
+.repoCard:hover svg.feather.feather-trash-2 {
+    display: block;
+}
+
+.repoCard h4 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

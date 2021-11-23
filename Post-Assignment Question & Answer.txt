@@ -1,0 +1,32 @@
+
+	•	Describe the major design/build decisions and why you made them.
+	    •	There are few as follows:
+	        ⁃	Implemented the charts with the React.
+	        ⁃	Handled the API calls through Axios client to make it more rigid and scalable.
+	        ⁃	Used the SASS instead of plain CSS.
+	        ⁃	Implemented Material UI along with bootstrap framework.
+	        ⁃	Component Segregation for UI.
+	        ⁃	Util to call common functions into different components wherever needed.
+	•	How long did the assignment take (in hours)? Please break down your answer into buckets (e.g. "Learning Framework", "Coding", "Debugging").
+	    •	I tend to start 9 hrs before the deadline and spend like an hour or two to go thru the code to debug more. Here are the breakdowns,
+	        ⁃	Learning Framework : 3 hrs
+	        ⁃	Coding : 7 hrs (including design and development)
+	        ⁃	Debugging : 2 hrs
+	•	If you could go back and give yourself advice at the beginning of the project, what would it be?
+	    ⁃	Honestly, What I did today is the product of my yesterday.No regrets, But though , there is always a learning curve and I learned while working on this POC.
+	•	Did you learn anything new?
+	    ⁃	Definitely , there was a new learning which includes:
+	        ⁃	React Chart libraries and how to play with these libraries to display shorter span data.
+	        ⁃	Used SASS first time in this POC. Before I was involved in projects where I created designs using CSS. Though , I worked on SASS but It was created by somebody else ;).
+	•	Do you feel that this assignment allowed you to showcase your abilities effectively?
+	    ⁃	Definitely, this assignment allowed me to showcase my abilities , to widen my vision to create the design and development.
+	•	Are there any significant web development-related skills that you possess that were not demonstrated in this exercise? If so, what are they?
+	    ⁃	Definitely , there are some  which are :
+	        ⁃	Analytical skills
+	        ⁃	Responsive design
+            ⁃	Search engine optimization skills.
+            ⁃	Memory leaks to handle in App
+            ⁃	Logging of Errors , Debug and Information statements.
+            ⁃	Python for scripting.
+            ⁃	My Docker skills for process env files to different profiles like Dev, stage and prod.
+            ⁃	Creation of CI/CD pipelines for these profiles
