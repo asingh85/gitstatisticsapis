@@ -1,3 +1,7 @@
+Run NPM i
+run npm start
+run the json server in new terminal : npm run json-server
+
 1. Create a new folder. You could use the following commands to create a new folder. Once the folder is created navigate to the folder using the cd command.
 
 mkdir <folder_name>
